@@ -8,4 +8,4 @@ HTML CSS SASS
 
 <h2>Ekran Görüntüsü</h2>
 
-![](easybank)
+![](easybank.gif)
